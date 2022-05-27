@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="backButton" type="id" />
+    <item name="editOne" type="id" />
+    <item name="editTwo" type="id" />
+    <item name="editThree" type="id" />
+    <item name="editFour" type="id" />
+    <item name="editFive" type="id" />
+    <item name="editSix" type="id" />
+    <item name="title" type="id" />
+    <item name="year" type="id" />
+    <item name="director" type="id" />
+    <item name="cast" type="id" />
+    <item name="rating" type="id" />
+    <item name="review" type="id" />
+    <item name="search" type="id"/>
+    <item name="save" type="id"/>
+
+
+
+
+</resources>

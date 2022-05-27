@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="register_movie">register_movie</string>
+    <string name="display_movies">display_movies</string>
+    <string name="favourites">favourites</string>
+    <string name="edit_movies">edit_movies</string>
+    <string name="search">search</string>
+    <string name="ratings">ratings</string>
+    <string name="title_of_movie">Title of Movie:</string>
+    <string name="keyword">keyword</string>
+    <string name="find_a_movie_in_imdb">Find a Movie in IMDB</string>
+
+</resources>
